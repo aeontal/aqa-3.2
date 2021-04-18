@@ -1,4 +1,4 @@
-# Deadline SQL 
+## Deadline SQL [![master](https://github.com/aeontal/aqa-3.2/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/aeontal/aqa-3.2/actions/workflows/gradle.yml)
 
 ### Задача
 
